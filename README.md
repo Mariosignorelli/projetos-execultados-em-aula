@@ -1,2 +1,2 @@
-# repositorio-myhomework
-Repositório de armazenamentos projetos finalizados  MY Home work
+# repositorio- de projetos feitos em aula
+Repositório de armazenamentos projetos finalizados 
