@@ -15,6 +15,6 @@
             parseFloat(tds[4].textContent)
         )
         x++
-        tds[5].textContent = media;
+        tds[5].textContent = media.toFixed(2);
     }
 })()
